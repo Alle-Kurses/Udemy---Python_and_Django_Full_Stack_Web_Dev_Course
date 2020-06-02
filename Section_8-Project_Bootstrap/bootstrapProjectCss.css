@@ -1,0 +1,38 @@
+body{
+	font-family: 'UnifrakturCook', cursive;
+}
+
+h1{
+	font-size: 63px; 
+}
+
+p{
+	font-size: 14px;
+}
+
+ol{
+	font-size: 14px;
+}
+
+.btn{
+	background-color: #000000;
+}
+
+.jumbotron{
+	background-color: #eee;
+	padding: 4em;
+}
+
+.jumbotron p{
+	font-size: 21px;
+	font-weight: 400;
+}
+
+.labels{
+	font-weight: bold;
+}
+
+.navbar{
+	background-color: #000000; 
+	border-radius: 4px
+}

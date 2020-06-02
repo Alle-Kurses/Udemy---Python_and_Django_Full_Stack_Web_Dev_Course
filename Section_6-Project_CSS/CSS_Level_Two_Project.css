@@ -1,0 +1,38 @@
+h1{
+	font-family: 'UnifrakturCook', cursive;
+	font-size: 45px; 
+}
+
+table{
+	border-spacing: 10px;
+	margin: auto;
+}
+
+tr{
+	border: solid; 
+}
+
+td{
+	height: 600px;
+	width: 300px;
+}
+
+td:first-child{
+	background-color: #040101;
+}
+
+td:nth-child(2){
+	background-color: #650A0B;
+}
+
+td:nth-child(3){
+	background-color: #9A0101;
+}
+
+td:nth-child(4){
+	background-color: #3B383A;
+}
+
+td:last-child{
+	background-color: #909595;
+}
